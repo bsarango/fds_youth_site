@@ -1,8 +1,10 @@
 import React from 'react'
+import Navbar from './Navbar';
 
 function Home(){
     return(
         <div>
+            <Navbar/>
             <h2>Welcome to FDS Youth</h2>
             <h3 className='subtitle'>Who we are</h3>
             <p>
