@@ -18,8 +18,11 @@ function Home(){
             <h4 className='socials_heading'>Socials</h4>
             <div>
                 {/* Make these all icons */}
-                <a href="">Instagram</a>
-                <a href="https://www.facebook.com/FDSyouthministry/" alt="Facebook">Facebook</a> 
+                <ul>
+                    <a href="">Instagram</a>
+                    <a href="https://www.facebook.com/FDSyouthministry/" alt="Facebook">Facebook</a> 
+                </ul>
+                
             </div>
         </div>
     )
