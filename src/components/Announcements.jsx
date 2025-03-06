@@ -1,12 +1,13 @@
 import React,{state} from 'react'
 import Announcement from 'Announcement'
 
-function Announcement(){
+function Announcements(){
 
     const [announcements, setAnnouncements] = useState([])
 
     function displayAnnouncements(){
         //Use a loop/method to convert data into an announcement component and add to an annoucement state variable
+        //Figure out where to place or where to get Announcement data
     }
 
     return(
@@ -15,3 +16,5 @@ function Announcement(){
         </div>
     )
 }
+
+export default Announcements;
