@@ -5,7 +5,8 @@ function Home(){
     return(
         <div>
             <Navbar/>
-            <h2 id="site_title">Welcome to FDS Youth</h2>
+            <h2 className="eng_subtitle">Fountain of Salvation Youth</h2>
+            <h2 classame="spa_subtitle">Jovenes Fuente de Salvacion</h2>
             <h3 className="bio_title">Who we are</h3>
             <p>
                 We're a group of young people who are passionate about seeking God <br></br>
