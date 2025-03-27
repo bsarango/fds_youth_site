@@ -15,6 +15,7 @@ function Announcements(){
         <div className='announcements_container'>
             {/* Get a list of all announcements */}
             Where the announcements would go
+            <Announcement/>
         </div>
     )
 }
