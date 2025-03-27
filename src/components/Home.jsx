@@ -1,5 +1,6 @@
 import React from 'react'
 import Navbar from './Navbar';
+import Announcements from './Announcements';
 
 function Home(){
     return(
@@ -15,6 +16,7 @@ function Home(){
                 you join us in growing in God!
             </p>
             <h3 className= "announcements_heading">Announcements</h3>
+            <Announcements/>
             <h4 className='socials_heading'>Follow Us</h4>
             <h4 className='socials_heading'>Socials</h4>
             <div>

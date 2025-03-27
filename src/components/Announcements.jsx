@@ -1,5 +1,6 @@
 import React,{state} from 'react'
-import Announcement from 'Announcement'
+import Announcement from './Announcement'
+
 
 function Announcements(){
 
