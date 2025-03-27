@@ -16,7 +16,11 @@ function Home(){
                 you join us in growing in God!
             </p>
             <h3 className= "announcements_heading">Announcements</h3>
-            <Announcements/>
+            <div className='announcements_list'>
+                <Announcements/>
+            </div>
+            
+
             <h4 className='socials_heading'>Follow Us</h4>
             <h4 className='socials_heading'>Socials</h4>
             <div>

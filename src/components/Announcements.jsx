@@ -1,4 +1,4 @@
-import React,{state} from 'react'
+import React,{useState} from 'react'
 import Announcement from './Announcement'
 
 
