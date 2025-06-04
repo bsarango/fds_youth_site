@@ -4,6 +4,7 @@ function Announcement(){
     return(
         <div>
             Announcement Placeholder
+            {/*placeholder for image*/}
         </div>
     )
 }
