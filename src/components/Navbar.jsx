@@ -20,7 +20,12 @@ function Navbar() {
       <div className='logo-container'>
         <img src="" alt="fds logo" className='logo-pic'/>
       </div>
-      
+      <div className='nav-links'>
+        <li>Placeholder 1</li>
+        <li>Placeholder 2</li>
+        <li>Placehodler 3</li>
+      </div>
+
     </nav>
   );
 }
