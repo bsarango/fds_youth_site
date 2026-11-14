@@ -13,14 +13,14 @@ import React from 'react';
 // import MenuItem from '@mui/material/MenuItem';
 // import AdbIcon from '@mui/icons-material/Adb';
 
-const pages = ['About', 'Announcements', 'Connect'];
-const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
-
 function Navbar() {
 
   return (
     <nav id="navbar">
-
+      <div className='logo-container'>
+        <img src="" alt="fds logo" className='logo-pic'/>
+      </div>
+      
     </nav>
   );
 }
