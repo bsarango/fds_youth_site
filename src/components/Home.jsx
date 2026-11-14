@@ -4,7 +4,7 @@ import Announcements from './Announcements';
 
 function Home(){
     return(
-        <div>
+        <>
             <Navbar/>
             <h2 className="eng_subtitle">Placeholder Title</h2>
             <h2 classame="spa_subtitle">Placeholder</h2>
@@ -33,7 +33,8 @@ function Home(){
             <div className='site_footer_container'>
                 <p className='footer_text'>Place Holder Text</p>
             </div>
-        </div>
+        </>
+        
     )
 }
 
