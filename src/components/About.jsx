@@ -7,9 +7,8 @@ function About(){
             <div className="about-text-container">
                 <p>Helping Youth Reach Heaven! </p><br></br>
                 <p>
-                    and helping other youth know, grow, and learn in the Lord. <br></br>
-                    Our mission is to help Youth reach heaven. We would love for 
-                    you join us in growing in God!
+                    We aim to help a generation of youth people get to know who God is, learn his biblical principles, and develop spiritual discipleship
+                    
                 </p>
             </div>
             
