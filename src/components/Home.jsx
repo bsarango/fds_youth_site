@@ -1,12 +1,13 @@
 import React from 'react'
 import Navbar from './Navbar';
 import Announcements from './Announcements';
+import About from './About'
 
 function Home(){
     return(
         <>
             <Navbar/>
-            
+            <About/>
             <h3 className= "announcements_heading">Announcements</h3>
             <div className='announcements_list'>
                 <Announcements/>
