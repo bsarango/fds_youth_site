@@ -2,9 +2,9 @@ import React from 'react';
 
 function Announcement(){
     return(
-        <div>
-            Announcement Placeholder
-            {/*placeholder for image*/}
+        <div className='announcement-container'>
+            <img src="" alt='announcement' className='announcement-img'/>
+            weekly event/monthly event
         </div>
     )
 }

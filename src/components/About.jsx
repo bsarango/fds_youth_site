@@ -8,11 +8,9 @@ function About(){
                 <p>Helping Youth Reach Heaven! </p><br></br>
                 <p>
                     We aim to help a generation of youth people get to know who God is, learn his biblical principles, and develop spiritual discipleship
-                    
+
                 </p>
             </div>
-            
-            
         </section>
     )
 }
