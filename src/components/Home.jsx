@@ -8,10 +8,8 @@ function Home(){
         <>
             <Navbar/>
             <About/>
-            <h3 className= "announcements_heading">Announcements</h3>
-            <div className='announcements_list'>
-                <Announcements/>
-            </div>
+            <Announcements/>
+            
             
 
             <h4 className='socials_heading'>Follow Us</h4>
