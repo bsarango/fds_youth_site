@@ -10,12 +10,15 @@ function Announcements(){
     // const [announcements, setAnnouncements] = useState([])
 
     return(
-        <div className='announcements_container'>
-            {/* Get a list of all announcements */}
-            Where the announcements would go.
-            <Announcement imgSrc={image_1}/>
-            <Announcement imgSrc={image_2}/>
-        </div>
+        <section id="announcements">
+            <div className='announcements_container'>
+                {/* Get a list of all announcements */}
+                Where the announcements would go.
+                <Announcement imgSrc={image_1}/>
+                <Announcement imgSrc={image_2}/>
+            </div>
+        </section>
+        
     )
 }
 
