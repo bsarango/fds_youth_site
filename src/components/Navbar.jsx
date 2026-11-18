@@ -21,8 +21,8 @@ function Navbar() {
         <img src="" alt="fds logo" className='logo-pic'/>
       </div>
       <div className='nav-links'>
-        <li>Placeholder 1</li>
-        <li>Placeholder 2</li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#announcements">Announcements</a></li>
         <li>Placehodler 3</li>
       </div>
 
