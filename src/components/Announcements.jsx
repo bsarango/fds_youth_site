@@ -1,6 +1,6 @@
 import React,{useState} from 'react'
 import Announcement from './Announcement'
-import imageOne from '../assets/annoucement-images/'
+
 
 
 function Announcements(){
