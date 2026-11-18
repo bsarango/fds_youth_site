@@ -1,9 +1,9 @@
 import React from 'react';
 
-function Announcement(){
+function Announcement({imageSrc}){
     return(
         <div className='announcement-container'>
-            <img src="" alt='announcement' className='announcement-img'/>
+            <img src={imgSrc} alt='announcement' className='announcement-img'/>
             weekly event/monthly event
         </div>
     )
