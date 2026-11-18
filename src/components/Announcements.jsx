@@ -1,5 +1,6 @@
 import React,{useEffect, useState} from 'react'
 import Announcement from './Announcement'
+import * as announcement_images from '../assets/annoucement-images'
 
 
 function Announcements(){
