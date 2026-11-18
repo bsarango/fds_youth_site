@@ -17,7 +17,7 @@ function Home(){
             <div>
                 {/* Make these all icons */}
                 <ul className='socials_list'>
-                    <a className='social_icon' href="">Instagram</a>
+                    <a className='social_icon' href="https://www.instagram.com/fds_youth/">Instagram</a>
                     <a className='social_icon' href="https://www.facebook.com/FDSyouthministry/" alt="Facebook">Facebook</a> 
                 </ul>
             </div>
