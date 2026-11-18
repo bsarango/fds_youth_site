@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Announcement({imageSrc}){
+function Announcement({imgSrc}){
     return(
         <div className='announcement-container'>
             <img src={imgSrc} alt='announcement' className='announcement-img'/>

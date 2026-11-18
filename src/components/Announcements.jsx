@@ -14,6 +14,7 @@ function Announcements(){
             {/* Get a list of all announcements */}
             Where the announcements would go.
             <Announcement imgSrc={image_1}/>
+            <Announcement imgSrc={image_2}/>
         </div>
     )
 }
